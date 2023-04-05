@@ -32,9 +32,8 @@ Contact
 
 About me
 
-I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
-
-My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
+I'm an adept business and technology professional with a passion for working closely with and connecting cross-functional teams, facilitating effective communication and collaboration, automating processes, and integrating systems to drive positive business outcomes. I have developed a talent for uncovering crucial "hidden" information to solve problems and bringing clarity out of complexity. 
+I have built and refined a unique depth and breadth of skills in support of this in several crucial areas, including but not limited to identity & access management (IAM), identity governance administration (IGA), API lifecycle management and leveraging IaC tools to provision and automate cloud infrastructure. 
 
 
 ## service
